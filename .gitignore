@@ -1,0 +1,13 @@
+.terraform*
+apache_setup.sh
+instance_id.txt
+db_instance_id.txt
+docker-login.sh
+ecr_repo_uri.txt
+ecr_url.groovy
+sEdboi.sh
+shadow.txt
+terraform.tfstate*
+terraform.tfvars
+test.py
+yoba.pem
